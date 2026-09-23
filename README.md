@@ -240,4 +240,4 @@ This repository serves as the official landing page for AMD Catalyst Driver. The
 **Get the most recent version of AMD Catalyst Driver today!**
 
 ---
-**Last updated:** 2026-09-22 21:46:52 UTC
+**Last updated:** 2026-09-23 00:00:39 UTC
